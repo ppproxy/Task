@@ -62,7 +62,7 @@ hostname = h5.bianlifeng.com
 
 
 const version = '/v1'
-const shareCode = '3570065352703791'
+const shareCode = ''
 const homeURL = 'https://h5.bianlifeng.com/meepo/taskCenter/home' + version
 const signInURL = 'https://h5.bianlifeng.com/meepo/taskCenter/today/signIn' + version
 const receiveURL = 'https://h5.bianlifeng.com/meepo/taskCenter/task/receive' + version
